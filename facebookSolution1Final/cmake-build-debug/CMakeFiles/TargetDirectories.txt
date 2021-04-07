@@ -1,0 +1,3 @@
+F:/GeeksForGeeksDataStructures/facebookSolution1Final/cmake-build-debug/CMakeFiles/facebookSolution1Final.dir
+F:/GeeksForGeeksDataStructures/facebookSolution1Final/cmake-build-debug/CMakeFiles/edit_cache.dir
+F:/GeeksForGeeksDataStructures/facebookSolution1Final/cmake-build-debug/CMakeFiles/rebuild_cache.dir

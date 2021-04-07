@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+F:/GeeksForGeeksDataStructures/possibleordsFromPhoneRecursion/main.cpp
+bits/stdc++.h
+-
+string
+-
+

@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+F:/GeeksForGeeksDataStructures/sortingUnorderedSet/main.cpp
+iostream
+-
+unordered_set
+-
+algorithm
+-
+

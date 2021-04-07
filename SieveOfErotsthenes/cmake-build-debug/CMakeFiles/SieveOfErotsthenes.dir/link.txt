@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2019.3.2\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\SieveOfErotsthenes.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\SieveOfErotsthenes.dir/objects.a @CMakeFiles\SieveOfErotsthenes.dir\objects1.rsp
+C:\MinGW\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\SieveOfErotsthenes.dir/objects.a -Wl,--no-whole-archive  -o SieveOfErotsthenes.exe -Wl,--out-implib,libSieveOfErotsthenes.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\SieveOfErotsthenes.dir\linklibs.rsp

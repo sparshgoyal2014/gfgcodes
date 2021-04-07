@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2019.3.2\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\testInstapostCodingStartsWithC31july.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\testInstapostCodingStartsWithC31july.dir/objects.a @CMakeFiles\testInstapostCodingStartsWithC31july.dir\objects1.rsp
+C:\MinGW\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\testInstapostCodingStartsWithC31july.dir/objects.a -Wl,--no-whole-archive  -o testInstapostCodingStartsWithC31july.exe -Wl,--out-implib,libtestInstapostCodingStartsWithC31july.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\testInstapostCodingStartsWithC31july.dir\linklibs.rsp

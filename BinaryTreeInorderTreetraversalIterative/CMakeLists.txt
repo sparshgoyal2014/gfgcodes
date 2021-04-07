@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.15)
+project(BinaryTreeInorderTreetraversalIterative)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(BinaryTreeInorderTreetraversalIterative main.cpp)

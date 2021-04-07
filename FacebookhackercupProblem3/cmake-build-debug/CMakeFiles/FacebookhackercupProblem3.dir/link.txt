@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2019.3.2\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\FacebookhackercupProblem3.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\FacebookhackercupProblem3.dir/objects.a @CMakeFiles\FacebookhackercupProblem3.dir\objects1.rsp
+C:\MinGW\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\FacebookhackercupProblem3.dir/objects.a -Wl,--no-whole-archive  -o FacebookhackercupProblem3.exe -Wl,--out-implib,libFacebookhackercupProblem3.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\FacebookhackercupProblem3.dir\linklibs.rsp

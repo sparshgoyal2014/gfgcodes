@@ -1,0 +1,3 @@
+F:/GeeksForGeeksDataStructures/linkedListReverseInSetK/cmake-build-debug/CMakeFiles/linkedListReverseInSetK.dir
+F:/GeeksForGeeksDataStructures/linkedListReverseInSetK/cmake-build-debug/CMakeFiles/edit_cache.dir
+F:/GeeksForGeeksDataStructures/linkedListReverseInSetK/cmake-build-debug/CMakeFiles/rebuild_cache.dir

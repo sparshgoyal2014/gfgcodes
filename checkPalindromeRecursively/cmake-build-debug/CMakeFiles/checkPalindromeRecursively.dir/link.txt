@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2019.3.2\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\checkPalindromeRecursively.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\checkPalindromeRecursively.dir/objects.a @CMakeFiles\checkPalindromeRecursively.dir\objects1.rsp
+C:\MinGW\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\checkPalindromeRecursively.dir/objects.a -Wl,--no-whole-archive  -o checkPalindromeRecursively.exe -Wl,--out-implib,libcheckPalindromeRecursively.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\checkPalindromeRecursively.dir\linklibs.rsp

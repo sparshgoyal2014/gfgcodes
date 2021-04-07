@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2019.3.2\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\MultidimensionalVectors.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\MultidimensionalVectors.dir/objects.a @CMakeFiles\MultidimensionalVectors.dir\objects1.rsp
+C:\MinGW\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\MultidimensionalVectors.dir/objects.a -Wl,--no-whole-archive  -o MultidimensionalVectors.exe -Wl,--out-implib,libMultidimensionalVectors.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\MultidimensionalVectors.dir\linklibs.rsp

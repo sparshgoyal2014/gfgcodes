@@ -1,0 +1,3 @@
+F:/GeeksForGeeksDataStructures/matrixRotate90/cmake-build-debug/CMakeFiles/matrixRotate90.dir
+F:/GeeksForGeeksDataStructures/matrixRotate90/cmake-build-debug/CMakeFiles/edit_cache.dir
+F:/GeeksForGeeksDataStructures/matrixRotate90/cmake-build-debug/CMakeFiles/rebuild_cache.dir

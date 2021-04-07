@@ -1,0 +1,3 @@
+F:/GeeksForGeeksDataStructures/TreeSpiraltraversal/cmake-build-debug/CMakeFiles/TreeSpiraltraversal.dir
+F:/GeeksForGeeksDataStructures/TreeSpiraltraversal/cmake-build-debug/CMakeFiles/edit_cache.dir
+F:/GeeksForGeeksDataStructures/TreeSpiraltraversal/cmake-build-debug/CMakeFiles/rebuild_cache.dir

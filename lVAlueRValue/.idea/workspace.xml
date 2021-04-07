@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="lVAlueRValue" targetName="lVAlueRValue" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c9330a51-5598-4f7f-ac93-f63750312c8e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../BinarySearch/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BucketSort/.idea/BucketSort.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CycleSort/.idea/CycleSort.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HoaresPartition/.idea/HoaresPartition.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KthSmallestelement/.idea/KthSmallestelement.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LomutoPartition/.idea/LomutoPartition.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MultidimensionalArray/.idea/MultidimensionalArray.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MultidimensionalArray2/.idea/MultidimensionalArray2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MultidimensionalVectors/.idea/MultidimensionalVectors.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NaiveCountingSort/.idea/NaiveCountingSort.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NaivePartition/.idea/NaivePartition.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RadixSort/.idea/RadixSort.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SortArraywithTwoTypesOfelements/.idea/SortArraywithTwoTypesOfelements.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UnionTWoSortedArrays/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chocolateDistrtibutionProblem/.idea/chocolateDistrtibutionProblem.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../countInversionArray/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../countSortStable/.idea/countSortStable.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lValuerValueFinal/.idea/lValuerValueFinal.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../matrixBoundaryPrint/.idea/matrixBoundaryPrint.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../matrixDeterminant/.idea/matrixDeterminant.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../matrixElementSearch/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../matrixElementSearch/.idea/matrixElementSearch.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../matrixRotate90/.idea/matrixRotate90.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../matrixSnakePattern/.idea/matrixSnakePattern.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../matrixSpiralTraversal/.idea/matrixSpiralTraversal.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../matrixTranspose/.idea/matrixTranspose.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mergeOverlappingIntervals/.idea/mergeOverlappingIntervals.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../overlappingIntervals/.idea/overlappingIntervals.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../passing 2dArray3/.idea/passing 2dArray3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../passing2DArray2/.idea/passing2DArray2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../passing2DArrayAsAnArguement/.idea/passing2DArrayAsAnArguement.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../quickSort/.idea/quickSort.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sortArrayThreeTypesOfElements/.idea/sortArrayThreeTypesOfElements.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test2dArrayForEach/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test2dArrayForEach/.idea/test2dArrayForEach.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testArray/.idea/testArray.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testAskii/.idea/testAskii.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testInstaPosts/.idea/testInstaPosts.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testOverflow/.idea/testOverflow.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../variableSizeArray/.idea/variableSizeArray.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BinarySearch/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../BinarySearch/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InsertionSort/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../InsertionSort/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MergeSort/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MergeSort/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MergeTwoSortedArrays/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MergeTwoSortedArrays/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SortWithCustomComparater/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SortWithCustomComparater/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UnionTWoSortedArrays/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../UnionTWoSortedArrays/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../countInversionArray/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../countInversionArray/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/lVAlueRValue.dir/main.cpp.obj" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1aGNC9BcuMTaRod3mwkE4bjsV4y" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration name="lVAlueRValue" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="lVAlueRValue" TARGET_NAME="lVAlueRValue" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="lVAlueRValue" RUN_TARGET_NAME="lVAlueRValue">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c9330a51-5598-4f7f-ac93-f63750312c8e" name="Default Changelist" comment="" />
+      <created>1586357840389</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586357840389</updated>
+      <workItem from="1586357845583" duration="4743000" />
+      <workItem from="1587288658370" duration="1237000" />
+      <workItem from="1588543141897" duration="1395000" />
+      <workItem from="1588592293891" duration="15000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="740" y="280" key="FileChooserDialogImpl" timestamp="1588543179077">
+      <screen x="0" y="0" width="1920" height="1048" />
+    </state>
+    <state x="740" y="280" key="FileChooserDialogImpl/0.0.1920.1048@0.0.1920.1048" timestamp="1588543179077" />
+    <state width="1877" height="284" key="GridCell.Tab.0.bottom" timestamp="1586383085480">
+      <screen x="0" y="0" width="1920" height="1048" />
+    </state>
+    <state width="1877" height="284" key="GridCell.Tab.0.bottom/0.0.1920.1048@0.0.1920.1048" timestamp="1586383085480" />
+    <state width="1877" height="284" key="GridCell.Tab.0.center" timestamp="1586383085480">
+      <screen x="0" y="0" width="1920" height="1048" />
+    </state>
+    <state width="1877" height="284" key="GridCell.Tab.0.center/0.0.1920.1048@0.0.1920.1048" timestamp="1586383085480" />
+    <state width="1877" height="284" key="GridCell.Tab.0.left" timestamp="1586383085480">
+      <screen x="0" y="0" width="1920" height="1048" />
+    </state>
+    <state width="1877" height="284" key="GridCell.Tab.0.left/0.0.1920.1048@0.0.1920.1048" timestamp="1586383085480" />
+    <state width="1877" height="284" key="GridCell.Tab.0.right" timestamp="1586383085480">
+      <screen x="0" y="0" width="1920" height="1048" />
+    </state>
+    <state width="1877" height="284" key="GridCell.Tab.0.right/0.0.1920.1048@0.0.1920.1048" timestamp="1586383085480" />
+    <state x="656" y="349" key="com.intellij.ide.util.TipDialog" timestamp="1588592296498">
+      <screen x="0" y="0" width="1920" height="1048" />
+    </state>
+    <state x="656" y="349" key="com.intellij.ide.util.TipDialog/0.0.1920.1048@0.0.1920.1048" timestamp="1588592296498" />
+  </component>
+</project>

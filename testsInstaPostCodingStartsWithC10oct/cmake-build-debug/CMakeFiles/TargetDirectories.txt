@@ -1,0 +1,3 @@
+F:/GeeksForGeeksDataStructures/testsInstaPostCodingStartsWithC10oct/cmake-build-debug/CMakeFiles/testsInstaPostCodingStartsWithC10oct.dir
+F:/GeeksForGeeksDataStructures/testsInstaPostCodingStartsWithC10oct/cmake-build-debug/CMakeFiles/edit_cache.dir
+F:/GeeksForGeeksDataStructures/testsInstaPostCodingStartsWithC10oct/cmake-build-debug/CMakeFiles/rebuild_cache.dir

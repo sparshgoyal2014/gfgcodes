@@ -1,0 +1,3 @@
+F:/GeeksForGeeksDataStructures/StocksBuyAndSell/cmake-build-debug/CMakeFiles/StocksBuyAndSell.dir
+F:/GeeksForGeeksDataStructures/StocksBuyAndSell/cmake-build-debug/CMakeFiles/edit_cache.dir
+F:/GeeksForGeeksDataStructures/StocksBuyAndSell/cmake-build-debug/CMakeFiles/rebuild_cache.dir

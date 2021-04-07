@@ -1,0 +1,3 @@
+F:/GeeksForGeeksDataStructures/LomutoPartition/cmake-build-debug/CMakeFiles/LomutoPartition.dir
+F:/GeeksForGeeksDataStructures/LomutoPartition/cmake-build-debug/CMakeFiles/edit_cache.dir
+F:/GeeksForGeeksDataStructures/LomutoPartition/cmake-build-debug/CMakeFiles/rebuild_cache.dir

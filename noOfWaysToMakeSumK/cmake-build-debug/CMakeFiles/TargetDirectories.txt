@@ -1,0 +1,3 @@
+F:/GeeksForGeeksDataStructures/noOfWaysToMakeSumK/cmake-build-debug/CMakeFiles/noOfWaysToMakeSumK.dir
+F:/GeeksForGeeksDataStructures/noOfWaysToMakeSumK/cmake-build-debug/CMakeFiles/edit_cache.dir
+F:/GeeksForGeeksDataStructures/noOfWaysToMakeSumK/cmake-build-debug/CMakeFiles/rebuild_cache.dir

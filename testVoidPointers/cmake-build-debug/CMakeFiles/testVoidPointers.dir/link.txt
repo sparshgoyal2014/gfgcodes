@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2019.3.2\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\testVoidPointers.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\testVoidPointers.dir/objects.a @CMakeFiles\testVoidPointers.dir\objects1.rsp
+C:\MinGW\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\testVoidPointers.dir/objects.a -Wl,--no-whole-archive  -o testVoidPointers.exe -Wl,--out-implib,libtestVoidPointers.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\testVoidPointers.dir\linklibs.rsp

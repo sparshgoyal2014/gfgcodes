@@ -1,0 +1,3 @@
+F:/GeeksForGeeksDataStructures/testCharPointerFinal/cmake-build-debug/CMakeFiles/testCharPointerFinal.dir
+F:/GeeksForGeeksDataStructures/testCharPointerFinal/cmake-build-debug/CMakeFiles/edit_cache.dir
+F:/GeeksForGeeksDataStructures/testCharPointerFinal/cmake-build-debug/CMakeFiles/rebuild_cache.dir

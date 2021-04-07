@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2de9d1ce-4fa2-4bd8-9586-b213438cfd04" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../BackTrackingRatInMaze/.idea/BackTrackingRatInMaze.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BacktrackingNQueens/.idea/BacktrackingNQueens.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BacktrackingNQueensOriginal/.idea/BacktrackingNQueensOriginal.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BacktrackingPermutationsOfString/.idea/BacktrackingPermutationsOfString.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BacktrackingSudoku/.idea/BacktrackingSudoku.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../COuntBSTWithNKeys/.idea/COuntBSTWithNKeys.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeChefCHEFINASWAPS/.idea/CodeChefCHEFINASWAPS.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeChefDragonDen/.idea/CodeChefDragonDen.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeChefSeptemberLongChallengeChefinaSwaps/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeChefSeptemberLongChallengeChefinaSwaps/.idea/CodeChefSeptemberLongChallengeChefinaSwaps.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeForcesChoosingFlowers/.idea/CodeForcesChoosingFlowers.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodingNinjaHireTest/.idea/CodingNinjaHireTest.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DP01Knapsack/.idea/DP01Knapsack.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DPEggDroppingPuzzle/.idea/DPEggDroppingPuzzle.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DPMatrixChainMultiplication/.idea/DPMatrixChainMultiplication.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DPMaximumSumIncreasingSubsequence/.idea/DPMaximumSumIncreasingSubsequence.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DPMaximumSumWithNoTwoConsecutive/.idea/DPMaximumSumWithNoTwoConsecutive.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DPOptimalStrategyForAGame/.idea/DPOptimalStrategyForAGame.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DPSubsetSumProblem/.idea/DPSubsetSumProblem.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DPcoinChangeCountCombinations/.idea/DPcoinChangeCountCombinations.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DPeditDistanceProblem/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DPeditDistanceProblem/.idea/DPeditDistanceProblem.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DPlongestCommonSubsequence/.idea/DPlongestCommonSubsequence.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DPlongestCommonSubsequenceTabulationSoliution/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DPlongestCommonSubsequenceTabulationSoliution/.idea/DPlongestCommonSubsequenceTabulationSoliution.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DPlongestIncreasingSubsequence/.idea/DPlongestIncreasingSubsequence.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DPlongestIncreasingSubsequenceUsingBinarySearch/.idea/DPlongestIncreasingSubsequenceUsingBinarySearch.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DPminimumCoinToMakeValue/.idea/DPminimumCoinToMakeValue.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DPminimumCoinToMakeValueTabulation/.idea/DPminimumCoinToMakeValueTabulation.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DPminimumJumpsToTarget/.idea/DPminimumJumpsToTarget.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DPoptimalStrategy/.idea/DPoptimalStrategy.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DProdCuttingProblem/.idea/DProdCuttingProblem.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DynammicProgramming/.idea/DynammicProgramming.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FaceBookHackerCupProblem1/.idea/FaceBookHackerCupProblem1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FaceBookHackercupProblem@Alchemy/.idea/FaceBookHackercupProblem@Alchemy.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FacebookhackercupProblem3/.idea/FacebookhackercupProblem3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoldmanSachsWordProblem/.idea/GoldmanSachsWordProblem.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GreedyActivationSelectionProblem/.idea/GreedyActivationSelectionProblem.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GreedyMaximumCoins/.idea/GreedyMaximumCoins.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Greedyfractionalknapsack/.idea/Greedyfractionalknapsack.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GreedyjobSequencingProblem/.idea/GreedyjobSequencingProblem.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InstacodingNinjasPost8Feb21/.idea/InstacodingNinjasPost8Feb21.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LeetCodeLetterCasePermutation/.idea/LeetCodeLetterCasePermutation.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LeetCodeVerticalOrderTraversal/.idea/LeetCodeVerticalOrderTraversal.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PrimeNumbersMostConsecutiveprimeNumbers/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PrimeNumbersMostConsecutiveprimeNumbers/.idea/PrimeNumbersMostConsecutiveprimeNumbers.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PrintAllSubSequencesOfstring/.idea/PrintAllSubSequencesOfstring.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RecursiveCoinChangeCount/.idea/RecursiveCoinChangeCount.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RecursiveMinimumCoinsToMakeValue/.idea/RecursiveMinimumCoinsToMakeValue.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SieveSundaramAlgorithmForPrimeNumbers/.idea/SieveSundaramAlgorithmForPrimeNumbers.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TrappingRainWater/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../addRecord/.idea/addRecord.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../addressOfTemporaaryObject/.idea/addressOfTemporaaryObject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../backTrackingPrintAllPermutationsNpotContainingAB/.idea/backTrackingPrintAllPermutationsNpotContainingAB.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../codeChefDRCHEF/.idea/codeChefDRCHEF.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../codeForcesaGoodString/.idea/codeForcesaGoodString.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../complexClass/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../complexClass/.idea/complexClass.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../constant References/.idea/constant References.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dynamicAllocatingCharArray/.idea/dynamicAllocatingCharArray.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../facebookHackerCupProblem3Tanish/.idea/facebookHackerCupProblem3Tanish.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../facebookHackerCupproblem2Final/.idea/facebookHackerCupproblem2Final.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../facebookSolution1Final/.idea/facebookSolution1Final.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interview/.idea/interview.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interview2/.idea/interview2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../iterativeInorderTreeTraversal/.idea/iterativeInorderTreeTraversal.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetCodeTaskScheduler/.idea/leetCodeTaskScheduler.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../longestProperPrefixSuffix/.idea/longestProperPrefixSuffix.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../longestsubstringWithDistinctCharacters/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../longestsubstringWithDistinctCharacters/.idea/longestsubstringWithDistinctCharacters.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../makePartitionsOStringBacktracking/.idea/makePartitionsOStringBacktracking.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maximumSubArraysSumLessthanK/.idea/maximumSubArraysSumLessthanK.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../noOfWaysToMakeSumK/.idea/noOfWaysToMakeSumK.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../numbersFormedByKeypad/.idea/numbersFormedByKeypad.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../print subsequencesLexiographically/.idea/print subsequencesLexiographically.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../printAlThe Subsequencesofastring/.idea/printAlThe Subsequencesofastring.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sortingUnorderedSet/.idea/sortingUnorderedSet.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../staticDataMembersOfClass/.idea/staticDataMembersOfClass.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../staticFunctions/.idea/staticFunctions.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test2DArray/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test@dArrayAllocation/.idea/test@dArrayAllocation.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testAddressOfStringLiteral/.idea/testAddressOfStringLiteral.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testAddressOfThisPointer/.idea/testAddressOfThisPointer.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testArrayDecaysuperProblem/.idea/testArrayDecaysuperProblem.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testArrayOfObjects/.idea/testArrayOfObjects.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testArrayinitialization/.idea/testArrayinitialization.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testAssignmentOperator/.idea/testAssignmentOperator.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testChangekeysInUnordered_Set/.idea/testChangekeysInUnordered_Set.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testCharArray/.idea/testCharArray.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testCharArrayPassedToFunction/.idea/testCharArrayPassedToFunction.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testCodingINinjaIGCode/.idea/testCodingINinjaIGCode.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testCodingNinja12jan21/.idea/testCodingNinja12jan21.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testCodingNinjaPost012jan21/.idea/testCodingNinjaPost012jan21.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testCodingNinjas12jan2021/.idea/testCodingNinjas12jan2021.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testCodingNinjasInstaPost12feb21/.idea/testCodingNinjasInstaPost12feb21.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testCommaOperator/.idea/testCommaOperator.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testCommaOperatorInFunctionArguements/.idea/testCommaOperatorInFunctionArguements.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testConsoleOutputObject/.idea/testConsoleOutputObject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testConstantStringLioteralAddition/.idea/testConstantStringLioteralAddition.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testConstructorStackOverlow/.idea/testConstructorStackOverlow.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testCopyConstructor/.idea/testCopyConstructor.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testCopyConstructorAndAssignmentOperator/.idea/testCopyConstructorAndAssignmentOperator.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testCopyConstructorAndAssignmentOperator/testCons.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testCopyConstructorAndAssignmentOperator2/.idea/testCopyConstructorAndAssignmentOperator2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testDanglinfgPointer28June/.idea/testDanglinfgPointer28June.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testDataTypeOverFlow/.idea/testDataTypeOverFlow.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testDestructor/.idea/testDestructor.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testDoubts/.idea/testDoubts.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testDynamic2dArray/.idea/testDynamic2dArray.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testDynammicArrats/.idea/testDynammicArrats.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testFinalScanfPrintF/.idea/testFinalScanfPrintF.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testForEachLoopWith2dArray/.idea/testForEachLoopWith2dArray.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testForLoopInitStatement/.idea/testForLoopInitStatement.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testForLoopStatements/.idea/testForLoopStatements.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testForkSystemCallOperatingSystem/.idea/testForkSystemCallOperatingSystem.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testFormatSpecifiesCharWarning/.idea/testFormatSpecifiesCharWarning.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testFreopen/.idea/testFreopen.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testGFGCompilationError/.idea/testGFGCompilationError.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testGFGInstaPost/.idea/testGFGInstaPost.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testGetLineStringInputMethod/.idea/testGetLineStringInputMethod.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testHelloWorld/.idea/testHelloWorld.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testIInstaPostplacement_ninjas3sep/.idea/testIInstaPostplacement_ninjas3sep.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testImplicitThis/.idea/testImplicitThis.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testInstaCodingNinja7july/.idea/testInstaCodingNinja7july.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testInstaPostCodingNinjas28july/.idea/testInstaPostCodingNinjas28july.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testInstaPostCodingStartWithC7July/.idea/testInstaPostCodingStartWithC7July.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testInstaPostCodingStartsWithC19july/.idea/testInstaPostCodingStartsWithC19july.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testInstaPostCodingStartsWithc1nov/.idea/testInstaPostCodingStartsWithc1nov.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testInstaPostCodingninjas14july/.idea/testInstaPostCodingninjas14july.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testInstaPostlogicalCoding27july/.idea/testInstaPostlogicalCoding27july.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testInstapostCodingStartsWithC31july/.idea/testInstapostCodingStartsWithC31july.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testIteratorsOfMap/.idea/testIteratorsOfMap.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testJaggeddArraysLinkeJavaInC++/.idea/testJaggeddArraysLinkeJavaInC++.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testLargeSizedLocalArrays/.idea/testLargeSizedLocalArrays.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testLeetCodeXPowerN/.idea/testLeetCodeXPowerN.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testMapTraversing/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testMapTraversing/.idea/testMapTraversing.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testMaximumSizeArray/.idea/testMaximumSizeArray.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testMemseAndSizeofMultidimensionalArray/.idea/testMemseAndSizeofMultidimensionalArray.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testModuloOperator/.idea/testModuloOperator.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testObjectReturnByValue/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testObjectReturnByValue/.idea/testObjectReturnByValue.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testOperatorPrecedence/.idea/testOperatorPrecedence.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testOverflow3/.idea/testOverflow3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testOverflowFinal/.idea/testOverflowFinal.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testPairOfPais/.idea/testPairOfPais.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testParentClassPointerChildClassObject/.idea/testParentClassPointerChildClassObject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testPassingAndReturningArray/.idea/testPassingAndReturningArray.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testPostIncrementOnObject/.idea/testPostIncrementOnObject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testPrecision/.idea/testPrecision.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testPreprocessingDefine/.idea/testPreprocessingDefine.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testPriorityQueue/.idea/testPriorityQueue.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testPriting functions/.idea/testPriting functions.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testReferenceInitialization/.idea/testReferenceInitialization.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testReferenceToObject/.idea/testReferenceToObject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testSairas4Dec/.idea/testSairas4Dec.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testSairasWhatsapp/.idea/testSairasWhatsapp.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testScanFAndPrintFInCpp/.idea/testScanFAndPrintFInCpp.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testSetPrecisioin/.idea/testSetPrecisioin.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testSizeofStringLiteral/.idea/testSizeofStringLiteral.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testSomething/.idea/testSomething.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testSortUsingComparator/.idea/testSortUsingComparator.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testStatic/.idea/testStatic.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testStaticClassVariable/.idea/testStaticClassVariable.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testStaticDataMembers/.idea/testStaticDataMembers.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testStringCOncatenation/.idea/testStringCOncatenation.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testStringConcatenationFinal/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testStringConcatenationFinal/.idea/testStringConcatenationFinal.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testStringEmpty/.idea/testStringEmpty.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testStringLiteral/.idea/testStringLiteral.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testStringLiteralConcatenation/.idea/testStringLiteralConcatenation.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testStringLiteralWithCharPointer/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testStringLiteralWithCharPointer/.idea/testStringLiteralWithCharPointer.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testStringSizeAndlength/.idea/testStringSizeAndlength.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testThisPointerPassedImplicitlyToMemberFucntions/.idea/testThisPointerPassedImplicitlyToMemberFucntions.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testUnorderedMapPair/.idea/testUnorderedMapPair.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testUnorderedSetOfPairs/.idea/testUnorderedSetOfPairs.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testVarunCode/.idea/testVarunCode.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testVectorErase/.idea/testVectorErase.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testVoidPointer/.idea/testVoidPointer.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testVoidPointers/.idea/testVoidPointers.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testWideningCastingInExpression/.idea/testWideningCastingInExpression.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testdereferencingAString/.idea/testdereferencingAString.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testforEachLoop/.idea/testforEachLoop.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testhashCodes/.idea/testhashCodes.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testprePostIncrement/.idea/testprePostIncrement.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testreturnArrays/.idea/testreturnArrays.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testsInstaPostCodingStartsWithC10oct/.idea/testsInstaPostCodingStartsWithC10oct.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testselfRefrentialObject/.idea/testselfRefrentialObject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../voidPointerReturnedByNew/.idea/voidPointerReturnedByNew.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CreateDynamic2dArray/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdCXX/a.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph(BreadthFirstSearch)BFS/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../Graph(BreadthFirstSearch)BFS/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph(BreadthFirstSearch)BFS/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Graph(BreadthFirstSearch)BFS/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StocksBuyAndSell/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../StocksBuyAndSell/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StocksBuyAndSell/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../StocksBuyAndSell/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StocksBuyAndSell/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../StocksBuyAndSell/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TrappingRainWater/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TrappingRainWater/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TrappingRainWater/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../TrappingRainWater/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TrappingRainWater/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../TrappingRainWater/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../maxCutOfRopeRecursion/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../maxCutOfRopeRecursion/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../maxCutOfRopeRecursion/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../maxCutOfRopeRecursion/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../maxCutOfRopeRecursion/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../maxCutOfRopeRecursion/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testMultiDimensionalArrayDecay/cmake-build-debug/CMakeFiles/testMultiDimensionalArrayDecay.dir/main.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../testMultiDimensionalArrayDecay/cmake-build-debug/CMakeFiles/testMultiDimensionalArrayDecay.dir/main.cpp.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testMultiDimensionalArrayDecay/cmake-build-debug/CMakeFiles/testMultiDimensionalArrayDecay.dir/objects.a" beforeDir="false" afterPath="$PROJECT_DIR$/../testMultiDimensionalArrayDecay/cmake-build-debug/CMakeFiles/testMultiDimensionalArrayDecay.dir/objects.a" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testMultiDimensionalArrayDecay/cmake-build-debug/testMultiDimensionalArrayDecay.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../testMultiDimensionalArrayDecay/cmake-build-debug/testMultiDimensionalArrayDecay.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testMultiDimensionalArrayDecay/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../testMultiDimensionalArrayDecay/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testReferenceBindingToArray/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdCXX/a.exe" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="F:\GeeksForGeeksDataStructures\testStringLiteralConcatenatioln\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1pfGvkTsZm628cDG64HnxjzsF3P" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2de9d1ce-4fa2-4bd8-9586-b213438cfd04" name="Default Changelist" comment="" />
+      <created>1615566963893</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1615566963893</updated>
+      <workItem from="1615566967408" duration="85000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>

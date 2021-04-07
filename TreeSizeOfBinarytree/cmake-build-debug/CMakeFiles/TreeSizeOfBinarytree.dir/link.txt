@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2019.3.2\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\TreeSizeOfBinarytree.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\TreeSizeOfBinarytree.dir/objects.a @CMakeFiles\TreeSizeOfBinarytree.dir\objects1.rsp
+C:\MinGW\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\TreeSizeOfBinarytree.dir/objects.a -Wl,--no-whole-archive  -o TreeSizeOfBinarytree.exe -Wl,--out-implib,libTreeSizeOfBinarytree.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\TreeSizeOfBinarytree.dir\linklibs.rsp

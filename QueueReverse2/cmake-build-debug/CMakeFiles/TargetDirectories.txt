@@ -1,0 +1,3 @@
+F:/GeeksForGeeksDataStructures/QueueReverse2/cmake-build-debug/CMakeFiles/QueueReverse2.dir
+F:/GeeksForGeeksDataStructures/QueueReverse2/cmake-build-debug/CMakeFiles/edit_cache.dir
+F:/GeeksForGeeksDataStructures/QueueReverse2/cmake-build-debug/CMakeFiles/rebuild_cache.dir

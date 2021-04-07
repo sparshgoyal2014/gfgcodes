@@ -1,0 +1,3 @@
+F:/GeeksForGeeksDataStructures/NaivePartition/cmake-build-debug/CMakeFiles/NaivePartition.dir
+F:/GeeksForGeeksDataStructures/NaivePartition/cmake-build-debug/CMakeFiles/edit_cache.dir
+F:/GeeksForGeeksDataStructures/NaivePartition/cmake-build-debug/CMakeFiles/rebuild_cache.dir

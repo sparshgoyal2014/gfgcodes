@@ -1,0 +1,3 @@
+F:/GeeksForGeeksDataStructures/testStaticClassVariable/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+F:/GeeksForGeeksDataStructures/testStaticClassVariable/cmake-build-debug/CMakeFiles/testStaticClassVariable.dir
+F:/GeeksForGeeksDataStructures/testStaticClassVariable/cmake-build-debug/CMakeFiles/edit_cache.dir

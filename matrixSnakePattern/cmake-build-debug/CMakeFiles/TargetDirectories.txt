@@ -1,0 +1,3 @@
+F:/GeeksForGeeksDataStructures/matrixSnakePattern/cmake-build-debug/CMakeFiles/matrixSnakePattern.dir
+F:/GeeksForGeeksDataStructures/matrixSnakePattern/cmake-build-debug/CMakeFiles/edit_cache.dir
+F:/GeeksForGeeksDataStructures/matrixSnakePattern/cmake-build-debug/CMakeFiles/rebuild_cache.dir

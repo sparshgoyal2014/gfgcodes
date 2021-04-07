@@ -1,0 +1,3 @@
+F:/GeeksForGeeksDataStructures/TreeTraversals/cmake-build-debug/CMakeFiles/TreeTraversals.dir
+F:/GeeksForGeeksDataStructures/TreeTraversals/cmake-build-debug/CMakeFiles/edit_cache.dir
+F:/GeeksForGeeksDataStructures/TreeTraversals/cmake-build-debug/CMakeFiles/rebuild_cache.dir

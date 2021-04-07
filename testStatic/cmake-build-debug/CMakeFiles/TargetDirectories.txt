@@ -1,0 +1,3 @@
+F:/GeeksForGeeksDataStructures/testStatic/cmake-build-debug/CMakeFiles/testStatic.dir
+F:/GeeksForGeeksDataStructures/testStatic/cmake-build-debug/CMakeFiles/edit_cache.dir
+F:/GeeksForGeeksDataStructures/testStatic/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+F:/GeeksForGeeksDataStructures/backTrackingPrintAllPermutationsNpotContainingAB/cmake-build-debug/CMakeFiles/backTrackingPrintAllPermutationsNpotContainingAB.dir
+F:/GeeksForGeeksDataStructures/backTrackingPrintAllPermutationsNpotContainingAB/cmake-build-debug/CMakeFiles/edit_cache.dir
+F:/GeeksForGeeksDataStructures/backTrackingPrintAllPermutationsNpotContainingAB/cmake-build-debug/CMakeFiles/rebuild_cache.dir

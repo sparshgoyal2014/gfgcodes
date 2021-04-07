@@ -1,0 +1,3 @@
+F:/GeeksForGeeksDataStructures/testPowerOperator/cmake-build-debug/CMakeFiles/testPowerOperator.dir
+F:/GeeksForGeeksDataStructures/testPowerOperator/cmake-build-debug/CMakeFiles/edit_cache.dir
+F:/GeeksForGeeksDataStructures/testPowerOperator/cmake-build-debug/CMakeFiles/rebuild_cache.dir

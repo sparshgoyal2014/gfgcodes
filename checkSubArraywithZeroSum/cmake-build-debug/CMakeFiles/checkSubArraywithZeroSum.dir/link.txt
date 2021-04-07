@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2019.3.2\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\checkSubArraywithZeroSum.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\checkSubArraywithZeroSum.dir/objects.a @CMakeFiles\checkSubArraywithZeroSum.dir\objects1.rsp
+C:\MinGW\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\checkSubArraywithZeroSum.dir/objects.a -Wl,--no-whole-archive  -o checkSubArraywithZeroSum.exe -Wl,--out-implib,libcheckSubArraywithZeroSum.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\checkSubArraywithZeroSum.dir\linklibs.rsp

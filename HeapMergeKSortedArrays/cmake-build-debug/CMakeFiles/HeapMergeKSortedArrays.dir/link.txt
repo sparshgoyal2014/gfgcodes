@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2019.3.2\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\HeapMergeKSortedArrays.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\HeapMergeKSortedArrays.dir/objects.a @CMakeFiles\HeapMergeKSortedArrays.dir\objects1.rsp
+C:\MinGW\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\HeapMergeKSortedArrays.dir/objects.a -Wl,--no-whole-archive  -o HeapMergeKSortedArrays.exe -Wl,--out-implib,libHeapMergeKSortedArrays.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\HeapMergeKSortedArrays.dir\linklibs.rsp

@@ -1,0 +1,3 @@
+F:/GeeksForGeeksDataStructures/testPriting functions/cmake-build-debug/CMakeFiles/edit_cache.dir
+F:/GeeksForGeeksDataStructures/testPriting functions/cmake-build-debug/CMakeFiles/testPriting_functions.dir
+F:/GeeksForGeeksDataStructures/testPriting functions/cmake-build-debug/CMakeFiles/rebuild_cache.dir

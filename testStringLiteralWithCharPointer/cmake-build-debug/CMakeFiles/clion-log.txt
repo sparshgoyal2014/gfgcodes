@@ -1,0 +1,4 @@
+"C:\Program Files\JetBrains\CLion 2019.3.2\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" F:\GeeksForGeeksDataStructures\testStringLiteralWithCharPointer
+-- Configuring done
+-- Generating done
+-- Build files have been written to: F:/GeeksForGeeksDataStructures/testStringLiteralWithCharPointer/cmake-build-debug

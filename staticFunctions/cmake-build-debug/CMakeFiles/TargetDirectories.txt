@@ -1,0 +1,3 @@
+F:/GeeksForGeeksDataStructures/staticFunctions/cmake-build-debug/CMakeFiles/edit_cache.dir
+F:/GeeksForGeeksDataStructures/staticFunctions/cmake-build-debug/CMakeFiles/staticFunctions.dir
+F:/GeeksForGeeksDataStructures/staticFunctions/cmake-build-debug/CMakeFiles/rebuild_cache.dir

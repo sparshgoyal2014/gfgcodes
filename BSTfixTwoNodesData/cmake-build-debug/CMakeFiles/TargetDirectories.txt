@@ -1,0 +1,3 @@
+F:/GeeksForGeeksDataStructures/BSTfixTwoNodesData/cmake-build-debug/CMakeFiles/BSTfixTwoNodesData.dir
+F:/GeeksForGeeksDataStructures/BSTfixTwoNodesData/cmake-build-debug/CMakeFiles/edit_cache.dir
+F:/GeeksForGeeksDataStructures/BSTfixTwoNodesData/cmake-build-debug/CMakeFiles/rebuild_cache.dir

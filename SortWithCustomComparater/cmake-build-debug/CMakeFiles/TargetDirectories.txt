@@ -1,0 +1,3 @@
+F:/GeeksForGeeksDataStructures/SortWithCustomComparater/cmake-build-debug/CMakeFiles/SortWithCustomComparater.dir
+F:/GeeksForGeeksDataStructures/SortWithCustomComparater/cmake-build-debug/CMakeFiles/edit_cache.dir
+F:/GeeksForGeeksDataStructures/SortWithCustomComparater/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+F:/GeeksForGeeksDataStructures/passing2DArrayAsAnArguement/cmake-build-debug/CMakeFiles/passing2DArrayAsAnArguement.dir
+F:/GeeksForGeeksDataStructures/passing2DArrayAsAnArguement/cmake-build-debug/CMakeFiles/edit_cache.dir
+F:/GeeksForGeeksDataStructures/passing2DArrayAsAnArguement/cmake-build-debug/CMakeFiles/rebuild_cache.dir

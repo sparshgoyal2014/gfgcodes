@@ -1,0 +1,3 @@
+F:/GeeksForGeeksDataStructures/StackUsingQueue/cmake-build-debug/CMakeFiles/StackUsingQueue.dir
+F:/GeeksForGeeksDataStructures/StackUsingQueue/cmake-build-debug/CMakeFiles/edit_cache.dir
+F:/GeeksForGeeksDataStructures/StackUsingQueue/cmake-build-debug/CMakeFiles/rebuild_cache.dir

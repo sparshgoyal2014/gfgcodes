@@ -1,0 +1,3 @@
+F:/GeeksForGeeksDataStructures/BInaryMinHeapImplementation/cmake-build-debug/CMakeFiles/BInaryMinHeapImplementation.dir
+F:/GeeksForGeeksDataStructures/BInaryMinHeapImplementation/cmake-build-debug/CMakeFiles/edit_cache.dir
+F:/GeeksForGeeksDataStructures/BInaryMinHeapImplementation/cmake-build-debug/CMakeFiles/rebuild_cache.dir

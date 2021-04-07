@@ -1,0 +1,3 @@
+F:/GeeksForGeeksDataStructures/testvectorSegmentationFault/cmake-build-debug/CMakeFiles/testvectorSegmentationFault.dir
+F:/GeeksForGeeksDataStructures/testvectorSegmentationFault/cmake-build-debug/CMakeFiles/edit_cache.dir
+F:/GeeksForGeeksDataStructures/testvectorSegmentationFault/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2019.3.2\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\testNestedFunctions.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\testNestedFunctions.dir/objects.a @CMakeFiles\testNestedFunctions.dir\objects1.rsp
+C:\MinGW\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\testNestedFunctions.dir/objects.a -Wl,--no-whole-archive  -o testNestedFunctions.exe -Wl,--out-implib,libtestNestedFunctions.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\testNestedFunctions.dir\linklibs.rsp

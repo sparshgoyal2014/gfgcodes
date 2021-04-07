@@ -1,0 +1,3 @@
+F:/GeeksForGeeksDataStructures/BitWiseOperators/cmake-build-debug/CMakeFiles/BitWiseOperators.dir
+F:/GeeksForGeeksDataStructures/BitWiseOperators/cmake-build-debug/CMakeFiles/edit_cache.dir
+F:/GeeksForGeeksDataStructures/BitWiseOperators/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2019.3.2\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\countSetBits.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\countSetBits.dir/objects.a @CMakeFiles\countSetBits.dir\objects1.rsp
+C:\MinGW\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\countSetBits.dir/objects.a -Wl,--no-whole-archive  -o countSetBits.exe -Wl,--out-implib,libcountSetBits.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\countSetBits.dir\linklibs.rsp

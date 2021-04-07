@@ -1,0 +1,3 @@
+F:/GeeksForGeeksDataStructures/testNestedFunctions/cmake-build-debug/CMakeFiles/testNestedFunctions.dir
+F:/GeeksForGeeksDataStructures/testNestedFunctions/cmake-build-debug/CMakeFiles/edit_cache.dir
+F:/GeeksForGeeksDataStructures/testNestedFunctions/cmake-build-debug/CMakeFiles/rebuild_cache.dir

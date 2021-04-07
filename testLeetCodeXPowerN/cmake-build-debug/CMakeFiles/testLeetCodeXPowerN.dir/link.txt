@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2019.3.2\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\testLeetCodeXPowerN.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\testLeetCodeXPowerN.dir/objects.a @CMakeFiles\testLeetCodeXPowerN.dir\objects1.rsp
+C:\MinGW\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\testLeetCodeXPowerN.dir/objects.a -Wl,--no-whole-archive  -o testLeetCodeXPowerN.exe -Wl,--out-implib,libtestLeetCodeXPowerN.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\testLeetCodeXPowerN.dir\linklibs.rsp

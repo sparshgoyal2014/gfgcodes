@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="countInversionArray" targetName="countInversionArray" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="21654a20-e349-4129-9e30-5a4f98016b18" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../BucketSort/.idea/BucketSort.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CycleSort/.idea/CycleSort.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HoaresPartition/.idea/HoaresPartition.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KthSmallestelement/.idea/KthSmallestelement.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LomutoPartition/.idea/LomutoPartition.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NaiveCountingSort/.idea/NaiveCountingSort.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NaivePartition/.idea/NaivePartition.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RadixSort/.idea/RadixSort.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SortArraywithTwoTypesOfelements/.idea/SortArraywithTwoTypesOfelements.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chocolateDistrtibutionProblem/.idea/chocolateDistrtibutionProblem.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../countSortStable/.idea/countSortStable.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mergeOverlappingIntervals/.idea/mergeOverlappingIntervals.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../overlappingIntervals/.idea/overlappingIntervals.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../quickSort/.idea/quickSort.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sortArrayThreeTypesOfElements/.idea/sortArrayThreeTypesOfElements.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test2dArrayForEach/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test2dArrayForEach/.idea/test2dArrayForEach.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testOverflow/.idea/testOverflow.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InsertionSort/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../InsertionSort/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MergeSort/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MergeSort/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MergeTwoSortedArrays/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MergeTwoSortedArrays/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SortWithCustomComparater/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SortWithCustomComparater/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1ajarDqkl9IpDSDzxoF1rIq8jJM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration name="countInversionArray" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="countInversionArray" TARGET_NAME="countInversionArray" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="countInversionArray" RUN_TARGET_NAME="countInversionArray">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="21654a20-e349-4129-9e30-5a4f98016b18" name="Default Changelist" comment="" />
+      <created>1587251653379</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587251653379</updated>
+      <workItem from="1587251655625" duration="4558000" />
+      <workItem from="1587973522001" duration="1394000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
